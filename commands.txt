@@ -1,0 +1,5 @@
+print hello
+sha1 pfihufjbv,mnciogwbefncuol4
+print wow
+sha1 hello
+wrongcommand
